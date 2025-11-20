@@ -1184,6 +1184,21 @@
             });
         });
 
+        // Auto-resize výška iframu
+        function sendResize() {
+            const height = document.documentElement.scrollHeight;
+            parent.postMessage({ type: "youdrawit-resize", height }, "*");
+        }
+        
+        // po načtení stránky
+        window.addEventListener("load", sendResize);
+        
+        // po každém resize
+        window.addEventListener("resize", sendResize);
+        
+        // pravidelně, kvůli animacím / výsledkům / guess-listu
+        setInterval(sendResize, 400);
+
     })();
 </script>
 </body>
