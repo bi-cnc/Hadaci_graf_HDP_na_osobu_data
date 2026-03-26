@@ -1,0 +1,1601 @@
+[
+  {
+    "country": "Albánie",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.35
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.16
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.1
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.11
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.16
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.28
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.3
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.24
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.21
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.72
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.03
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.01
+      }
+    ]
+  },
+  {
+    "country": "Belgie",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 0.97
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 0.91
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 0.89
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 0.88
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 0.89
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 0.89
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.01
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.05
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.18
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.21
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 1.3
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.0
+      }
+    ]
+  },
+  {
+    "country": "Bulharsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.31
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.25
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.24
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.22
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.45
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 3.13
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.59
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.52
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.59
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.87
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.18
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.06
+      }
+    ]
+  },
+  {
+    "country": "Kanada",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.01
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.2
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.16
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.44
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.3
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.29
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.42
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.27
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.21
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.33
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 1.37
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.01
+      }
+    ]
+  },
+  {
+    "country": "Chorvatsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.82
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.76
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.6
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.64
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.55
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.61
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.71
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.98
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.79
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.75
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 1.81
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.03
+      }
+    ]
+  },
+  {
+    "country": "Česko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 0.94
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.02
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 0.95
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.03
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.1
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.18
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.3
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.39
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.34
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.53
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.1
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.0
+      }
+    ]
+  },
+  {
+    "country": "Dánsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.15
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.11
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.15
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.14
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.28
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.3
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.38
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.32
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.37
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 2.0
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.37
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 3.22
+      }
+    ]
+  },
+  {
+    "country": "Estonsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.93
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 2.03
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 2.07
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 2.01
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 2.01
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 2.05
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 2.3
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 2.02
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 2.16
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 2.89
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 3.43
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 3.38
+      }
+    ]
+  },
+  {
+    "country": "Finsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.45
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.45
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.42
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.38
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.39
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.45
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.53
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.4
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.67
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 2.46
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.41
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.77
+      }
+    ]
+  },
+  {
+    "country": "Francie",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.82
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.78
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.79
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.78
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.81
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.81
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 2.0
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.91
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.88
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.9
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.06
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.04
+      }
+    ]
+  },
+  {
+    "country": "Německo",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.19
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.19
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.2
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.23
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.25
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.35
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.51
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.46
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.51
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.66
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.12
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.0
+      }
+    ]
+  },
+  {
+    "country": "Řecko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 2.22
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 2.31
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 2.4
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 2.38
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 2.54
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 2.45
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 2.91
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 3.7
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 3.86
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 3.05
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 3.08
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.85
+      }
+    ]
+  },
+  {
+    "country": "Maďarsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 0.86
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 0.9
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.0
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.19
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.01
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.34
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.76
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.68
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.84
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 2.07
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.11
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.06
+      }
+    ]
+  },
+  {
+    "country": "Itálie",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.14
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.07
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.18
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.2
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.23
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.17
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.59
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.57
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.54
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.47
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 1.49
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.01
+      }
+    ]
+  },
+  {
+    "country": "Lotyšsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 0.94
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.03
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.44
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.59
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 2.06
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 2.02
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 2.15
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 2.07
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 2.09
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 2.37
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 3.15
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 3.73
+      }
+    ]
+  },
+  {
+    "country": "Litva",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 0.88
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.14
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.48
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.71
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.97
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 2.0
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 2.07
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.97
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 2.45
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 2.75
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.85
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 4.0
+      }
+    ]
+  },
+  {
+    "country": "Lucembursko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 0.37
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 0.42
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 0.38
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 0.5
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 0.5
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 0.55
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 0.58
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 0.47
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 0.56
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.01
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 1.29
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.0
+      }
+    ]
+  },
+  {
+    "country": "Černá hora",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.5
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.4
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.42
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.34
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.37
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.33
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.73
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.55
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.41
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.55
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.02
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.03
+      }
+    ]
+  },
+  {
+    "country": "Holandsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.15
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.13
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.16
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.15
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.22
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.32
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.41
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.38
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.44
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.63
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.05
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.49
+      }
+    ]
+  },
+  {
+    "country": "Severní Makedonie",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.09
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.05
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 0.97
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 0.89
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 0.94
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.16
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.24
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.47
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.62
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.7
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.22
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.0
+      }
+    ]
+  },
+  {
+    "country": "Norsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.54
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.58
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.73
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.71
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.72
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.84
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.97
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.72
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.5
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.8
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.2
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 3.35
+      }
+    ]
+  },
+  {
+    "country": "Polsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.88
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 2.23
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 2.0
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.89
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 2.02
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.99
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 2.23
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 2.22
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 2.23
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 3.92
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 4.12
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 4.48
+      }
+    ]
+  },
+  {
+    "country": "Portugalsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.31
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.33
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.27
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.24
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.34
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.37
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.43
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.53
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.4
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.48
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 1.55
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.0
+      }
+    ]
+  },
+  {
+    "country": "Rumunsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.35
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.45
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.43
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.73
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.79
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.84
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 2.01
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.86
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.72
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.6
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.25
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.28
+      }
+    ]
+  },
+  {
+    "country": "Slovensko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 0.98
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.11
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.12
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.1
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.22
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.7
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.92
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.74
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.81
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 2.05
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.0
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.04
+      }
+    ]
+  },
+  {
+    "country": "Slovinsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 0.97
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 0.93
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.0
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 0.98
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.01
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.05
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.06
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.24
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.29
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.33
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 1.29
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.02
+      }
+    ]
+  },
+  {
+    "country": "Španělsko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 0.92
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 0.93
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 0.81
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 0.91
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 0.93
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 0.91
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.01
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.04
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.16
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.24
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 1.28
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.0
+      }
+    ]
+  },
+  {
+    "country": "Turecko",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 1.45
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 1.38
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 1.45
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 1.51
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 1.82
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 1.86
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 1.86
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 1.61
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 1.36
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 1.58
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.09
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.3
+      }
+    ]
+  },
+  {
+    "country": "Velká Británie",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 2.14
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 2.03
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 2.08
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 2.07
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 2.1
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 2.08
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 2.35
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 2.3
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 2.29
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 2.28
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 2.33
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 2.4
+      }
+    ]
+  },
+  {
+    "country": "USA",
+    "data": [
+      {
+        "Rok": 2014,
+        "Hodnota": 3.72
+      },
+      {
+        "Rok": 2015,
+        "Hodnota": 3.52
+      },
+      {
+        "Rok": 2016,
+        "Hodnota": 3.52
+      },
+      {
+        "Rok": 2017,
+        "Hodnota": 3.31
+      },
+      {
+        "Rok": 2018,
+        "Hodnota": 3.29
+      },
+      {
+        "Rok": 2019,
+        "Hodnota": 3.51
+      },
+      {
+        "Rok": 2020,
+        "Hodnota": 3.64
+      },
+      {
+        "Rok": 2021,
+        "Hodnota": 3.48
+      },
+      {
+        "Rok": 2022,
+        "Hodnota": 3.31
+      },
+      {
+        "Rok": 2023,
+        "Hodnota": 3.24
+      },
+      {
+        "Rok": 2024,
+        "Hodnota": 3.38
+      },
+      {
+        "Rok": 2025,
+        "Hodnota": 3.22
+      }
+    ]
+  },
+  {
+    "country": "Švédsko",
+    "data": [
+      {
+        "Rok": 2025,
+        "Hodnota": 2.51
+      }
+    ]
+  }
+]
